@@ -1,0 +1,51 @@
+Garantía: 36meses
+Disco Duro: 1.064 GB
+Tipo Soporte Disco: SSD
+Interfaz Soporte: No disponible
+Número Soportes: 0
+Gráfica: No disponible
+Fabricante Gráfica: No disponible
+Modelo: MacBook Pro
+Modelo Gráfica: No disponible
+Memoria Gráfica: No disponible
+Familia Procesador: No disponible
+Modelo Procesador: No disponible
+Fabricante Procesador: Apple
+Frecuencia Procesador: No disponible
+Pantalla: 14 pulgadas
+Precio: 3.849,00 €
+Tamaño Pantalla: 14 pulgadas
+Pantalla Táctil: No
+Tipo Pantalla: No disponible
+Resolución Pantalla: No disponible
+Superficie Pantalla: Mate
+Peso: 2G
+Altura: No disponible
+Ancho: No disponible
+Profundidad: No disponible
+Color: Plata
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No
+Puertos USB: No disponible
+Ethernet: No disponible
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No disponible
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: 36 GB
+Bancos RAM Libres: No disponible
+Velocidad RAM: No disponible
+Tecnología RAM: No disponible
+Unidad Óptica: No disponible
+Teclado: No disponible
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: No disponible
+Pluma: No disponible
+Opciones: No se proporciona ninguna garantía ni declaración en cuanto a la exactitud de esta información y se declina cualquier responsabilidad por errores tipográficos u otros errores u omisiones en el tipo de contenido
+Otros: errores u omisiones en el tipo de contenido
+Puertos: Thunderbolt 4

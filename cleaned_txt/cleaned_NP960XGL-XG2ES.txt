@@ -1,0 +1,51 @@
+Garantía: No disponible
+Disco Duro: No disponible
+Tipo Soporte Disco: No disponible
+Interfaz Soporte: No disponible
+Número Soportes: No disponible
+Gráfica: NVIDIA Geforce RTX
+Fabricante Gráfica: No disponible
+Modelo: GALAXY BOOK4 ULTRA
+Modelo Gráfica: No disponible
+Memoria Gráfica: No disponible
+Familia Procesador: No disponible
+Modelo Procesador: No disponible
+Fabricante Procesador: No disponible
+Frecuencia Procesador: No disponible
+Pantalla: 16"
+Precio: 3.247,24 €
+Tamaño Pantalla: 16"
+Pantalla Táctil: No disponible
+Tipo Pantalla: No disponible
+Resolución Pantalla: No disponible
+Superficie Pantalla: No disponible
+Peso: 32G
+Altura: No disponible
+Ancho: No disponible
+Profundidad: No disponible
+Color: azul
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No disponible
+Puertos USB: No disponible
+Ethernet: No disponible
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No disponible
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: No disponible
+Bancos RAM Libres: No disponible
+Velocidad RAM: No disponible
+Tecnología RAM: No disponible
+Unidad Óptica: No disponible
+Teclado: No disponible
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: WINDOWS 11
+Pluma: No disponible
+Opciones: No disponible
+Otros: dispositivos Samsung Galaxy
+Puertos: Thunderbolt 4

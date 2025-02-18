@@ -1,0 +1,63 @@
+Garantía: 36meses
+Disco Duro: 1.000 GB
+Tipo Soporte Disco: SSD
+Interfaz Soporte: No disponible
+Número Soportes: 1
+Gráfica: NVIDIA RTXTM
+Fabricante Gráfica: Intel
+Modelo: No disponible
+Modelo Gráfica: Geforce RTX 2050
+Memoria de la gráfica
+0 mb
+PROCESADOR
+Familia Procesador
+Intel Core i7
+Modelo de procesador
+i7-13800H
+Fabricante procesador
+Intel
+Frecuencia del
+procesador
+5
+Memoria Gráfica: 0 mb
+Familia Procesador: Intel Core
+Modelo Procesador: Intel Core i7
+Fabricante Procesador: Intel
+Frecuencia Procesador: No disponible
+Pantalla: No disponible
+Precio: 3.785,26 €
+Tamaño Pantalla: 4"
+Pantalla Táctil: No disponible
+Tipo Pantalla: IPS
+Resolución Pantalla: No disponible
+Superficie Pantalla: No disponible
+Peso: 1.000 G
+Altura: No disponible
+Ancho: 2 cm
+Profundidad: 3 cm
+Color: Gris
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No
+Puertos USB: No disponible
+Ethernet: No
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No disponible
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: 32 GB
+Bancos RAM Libres: No disponible
+Velocidad RAM: 27 MHz
+Tecnología RAM: LPDDR5
+Unidad Óptica: No disponible
+Teclado: No disponible
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: Windows 11
+Pluma: No disponible
+Opciones: No se proporciona ninguna garantía ni declaración en cuanto a la exactitud de esta información y se declina cualquier responsabilidad por errores tipográficos u otros errores u omisiones en el tipo de contenido
+Otros: errores u omisiones en el tipo de contenido
+Puertos: VGA

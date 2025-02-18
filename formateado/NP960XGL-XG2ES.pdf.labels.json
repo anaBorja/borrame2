@@ -1,0 +1,534 @@
+{
+    "$schema": "http://www.azure.com/schema/formrecognizer/labels.json",
+    "document": "NP960XGL-XG2ES.pdf",
+    "labels": [
+        {
+            "label": "precio",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.82239616,
+                            0.18476366,
+                            0.9412989,
+                            0.18486626,
+                            0.9412626,
+                            0.20414044,
+                            0.82235986,
+                            0.20403783
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "3.247,24 \u00e2\u201a\u00ac"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "modelo",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.34361503,
+                            0.5453807,
+                            0.42011642,
+                            0.54547477,
+                            0.4200801,
+                            0.5580962,
+                            0.3435787,
+                            0.5580021
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "Gorilla\u00c2\u00ae Glass"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "marca",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.63505125,
+                            0.49930736,
+                            0.66206026,
+                            0.4992475,
+                            0.66209656,
+                            0.5082518,
+                            0.63508755,
+                            0.5083031
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "Intel"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "tama\u00c3\u00b1o",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.50199056,
+                            0.42744392,
+                            0.56912595,
+                            0.42744392,
+                            0.56912595,
+                            0.4399456,
+                            0.50199056,
+                            0.4399456
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "16 pulgadas"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "garantia",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.28843525,
+                            0.32497606,
+                            0.34111014,
+                            0.32513,
+                            0.3410496,
+                            0.33476707,
+                            0.28837475,
+                            0.33461314
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "36meses"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "disco duro",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.19575503,
+                            0.42281777,
+                            0.24395262,
+                            0.42274934,
+                            0.24397682,
+                            0.43242064,
+                            0.19577923,
+                            0.43248907
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "1.000 GB"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "grafica modelo",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.63553524,
+                            0.4608787,
+                            0.7049093,
+                            0.46080175,
+                            0.7049335,
+                            0.47062695,
+                            0.6355595,
+                            0.47070393
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "Geforce RTX"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "procesador",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.19571874,
+                            0.4990166,
+                            0.24879295,
+                            0.49888834,
+                            0.24884136,
+                            0.5087221,
+                            0.19576713,
+                            0.5088504
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "Intel Core"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "procesador fabricante",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.813369,
+                            0.355931,
+                            0.9232202,
+                            0.35599944,
+                            0.9232082,
+                            0.3686551,
+                            0.8133569,
+                            0.3685867
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "Intel\u00c2\u00ae Core\u00e2\u201e\u00a2 Ultra,"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "peso",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.195392,
+                            0.610942,
+                            0.23576036,
+                            0.61112154,
+                            0.23566355,
+                            0.62145984,
+                            0.1952952,
+                            0.62128025
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "1,86 kg"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "altura",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.41531238,
+                            0.6108137,
+                            0.46446592,
+                            0.6109591,
+                            0.46440542,
+                            0.62107503,
+                            0.41525188,
+                            0.62093824
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "25,05 cm"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "ancho",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.6348213,
+                            0.6109163,
+                            0.6842169,
+                            0.6110446,
+                            0.6841685,
+                            0.6210323,
+                            0.6347729,
+                            0.620904
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "35,54 cm"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "profundidad",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.85538304,
+                            0.6109505,
+                            0.89776015,
+                            0.6110275,
+                            0.89772385,
+                            0.6210579,
+                            0.85534674,
+                            0.620981
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "1,65 cm"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "color",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.41544548,
+                            0.6373478,
+                            0.47697818,
+                            0.6377753,
+                            0.47668776,
+                            0.65872556,
+                            0.41515505,
+                            0.658298
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "Moonstone Grey"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "bluetooth",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.72336304,
+                            0.7329919,
+                            0.8721548,
+                            0.7331116,
+                            0.87214273,
+                            0.7434755,
+                            0.723351,
+                            0.74336433
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "Bluetooth\n5,3"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "RAM",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.19553722,
+                            0.8885364,
+                            0.4475369,
+                            0.8882542,
+                            0.4475611,
+                            0.89697635,
+                            0.19556141,
+                            0.8972585
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "32 GB\n32 GB"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "microfono",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.06544125,
+                            0.10916336,
+                            0.20806158,
+                            0.10971918,
+                            0.20797686,
+                            0.1198779,
+                            0.065356545,
+                            0.11932208
+                        ]
+                    ],
+                    "page": 4,
+                    "text": "Micr\u00c3\u00b3fono\nSi"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "webcam",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.36940187,
+                            0.9253489,
+                            0.3993272,
+                            0.9253574,
+                            0.3993151,
+                            0.936833,
+                            0.36938974,
+                            0.93682444
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "Ultra"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "soluciones",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.059753872,
+                            0.18878266,
+                            0.80511624,
+                            0.18873136,
+                            0.80511624,
+                            0.21140032,
+                            0.059753872,
+                            0.2114431
+                        ]
+                    ],
+                    "page": 4,
+                    "text": "SOLUCIONES\nEscuela Digital\nGen\u00c3\u00a9rico\nPc Gaming\nMundo educacional\nDevice Chrome"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "sistema operativo",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.19513789,
+                            0.25454065,
+                            0.26106316,
+                            0.254686,
+                            0.26097846,
+                            0.27552503,
+                            0.19505318,
+                            0.2753882
+                        ]
+                    ],
+                    "page": 4,
+                    "text": "Windows 11 Home"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "resolucion",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.8548627,
+                            0.5604563,
+                            0.9177628,
+                            0.5603109,
+                            0.9178112,
+                            0.57017034,
+                            0.8549111,
+                            0.5703157
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "2880 \u00c3\u2014 1800"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "almacenamiento",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.48905483,
+                            0.16427521,
+                            0.7118189,
+                            0.16418114,
+                            0.711831,
+                            0.17791422,
+                            0.48906693,
+                            0.17800829
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "CORE ULTRA 9 155H 32GB 1TB"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "puerto USB",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.6611043,
+                            0.7917892,
+                            0.6999722,
+                            0.7916866,
+                            0.70003265,
+                            0.802461,
+                            0.6611648,
+                            0.8025636
+                        ]
+                    ],
+                    "page": 3,
+                    "text": "Type-C"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "duracion",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.6525974,
+                            0.6633346,
+                            0.9219134,
+                            0.6634885,
+                            0.9219013,
+                            0.6764263,
+                            0.6525853,
+                            0.6762724
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "de larga duraci\u00c3\u00b3n\n21"
+                }
+            ],
+            "labelType": "Words"
+        }
+    ]
+}

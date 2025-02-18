@@ -1,0 +1,62 @@
+Garantía: 12meses
+Disco Duro: No disponible
+Tipo Soporte Disco: SSD
+Interfaz Soporte: NVMe
+Número Soportes: 1
+Gráfica: Intel Arc
+Fabricante Gráfica: No disponible
+Modelo: XPS 14
+Modelo Gráfica: Geforce RTX
+gráfica
+4050
+PROCESADOR
+Familia Procesador
+Intel Core Ultra 7
+Modelo de procesador
+155H
+Fabricante procesador
+Intel
+Generación del procesador
+Intel Core Ultra 
+Memoria Gráfica: No disponible
+Familia Procesador: Intel Core
+Modelo Procesador: Intel Core Ultra
+Fabricante Procesador: Intel
+Frecuencia Procesador: No disponible
+Pantalla: 14.5"
+Precio: 2.628,52 €
+Tamaño Pantalla: 14.5"
+Pantalla Táctil: No disponible
+Tipo Pantalla: No disponible
+Resolución Pantalla: No disponible
+Superficie Pantalla: No disponible
+Peso: 32G
+Altura: No disponible
+Ancho: 8 cm
+Profundidad: No disponible
+Color: negro
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No
+Puertos USB: No disponible
+Ethernet: No
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No disponible
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: No disponible
+Bancos RAM Libres: No disponible
+Velocidad RAM: No disponible
+Tecnología RAM: LPDDR5
+Unidad Óptica: No disponible
+Teclado: retroiluminado
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: Windows 
+Pluma: No disponible
+Opciones: No disponible
+Otros: dispositivos mediante Dell Pair y Bluetooth
+Puertos: VGA

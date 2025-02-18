@@ -1,0 +1,52 @@
+Garantía: 36meses
+Disco Duro: 1.000 GB
+Tipo Soporte Disco: SSD
+Interfaz Soporte: No disponible
+Número Soportes: 1
+Gráfica: No disponible
+Fabricante Gráfica: Intel
+Modelo: No disponible
+Modelo Gráfica: RTX
+Memoria Gráfica: 18 mb
+Familia Procesador: Intel Core
+Modelo Procesador: Intel Core i7
+Fabricante Procesador: Intel
+Frecuencia Procesador: No disponible
+Pantalla: 17"
+Precio: 2.205,78 €
+Tamaño Pantalla: 17"
+Pantalla Táctil: No
+Tipo Pantalla: IPS
+Resolución Pantalla: No disponible
+Superficie Pantalla: Mate
+Peso: 32G
+Altura: No disponible
+Ancho: 88 cm
+Profundidad: 88 cm
+Color: plata
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No
+Puertos USB: No disponible
+Ethernet: No
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No disponible
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: 32 GB
+Bancos RAM Libres: No disponible
+Velocidad RAM: 000 MHz
+Tecnología RAM: LPDDR5
+Unidad Óptica: No disponible
+Teclado: No disponible
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: Windows 11
+Pluma: No
+Opciones: No se proporciona ninguna garantía ni declaración en cuanto a la exactitud de esta información y se declina cualquier responsabilidad por errores tipográficos u otros errores u omisiones en el tipo de contenido
+Otros: errores u omisiones en el tipo de contenido
+Puertos: USB
+4

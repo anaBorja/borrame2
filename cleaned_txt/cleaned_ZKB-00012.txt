@@ -1,0 +1,68 @@
+Garantía: No disponible
+Disco Duro: 1.000 GB
+Tipo Soporte Disco: SSD
+Interfaz Soporte: No disponible
+Número Soportes: 1
+Gráfica: Intel Arc
+Fabricante Gráfica: Intel
+Modelo: Surface Laptop 6
+Modelo Gráfica: Intel Arc Graphics
+Memoria de la gráfica
+0 mb
+PROCESADOR
+Familia Procesador
+Intel Core Ultra 7
+Modelo de procesador
+165H
+Fabricante procesador
+Intel
+Frecuencia del procesador
+1
+Memoria Gráfica: 0 mb
+Familia Procesador: Intel Core
+Modelo Procesador: Intel Core Ultra
+Fabricante Procesador: Intel
+Frecuencia Procesador: No disponible
+Pantalla: 15 pulgadas
+Precio: 2.528,75 €
+Tamaño Pantalla: 15 pulgadas
+Pantalla Táctil: No disponible
+Tipo Pantalla: No disponible
+Resolución Pantalla: No disponible
+Superficie Pantalla: No disponible
+Peso: 64 G
+Altura: No disponible
+Ancho: 7 cm
+Profundidad: 3 cm
+Color: Negro
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No
+Puertos USB: No disponible
+Ethernet: No
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: 32 GB
+Bancos RAM Libres: No disponible
+Velocidad RAM: 27 MHz
+Tecnología RAM: LPDDR5
+Unidad Óptica: No disponible
+Teclado: retroiluminado
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: Windows 11
+Pluma: No disponible
+Opciones: ACCESORIOS ORDENADORES PORTÁTILES DOCKING STATION Y EXPANSION PARA PORTÁTILES
+Código Artículo
+Características principales
+Stock
+Llegadas
+Microsoft Surface
+Código
+Otros: No disponible
+Puertos: USB4

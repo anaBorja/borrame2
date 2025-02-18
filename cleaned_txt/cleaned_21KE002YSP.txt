@@ -1,0 +1,68 @@
+Garantía: 36meses
+Disco Duro: 512 GB
+Tipo Soporte Disco: SSD
+Interfaz Soporte: No disponible
+Número Soportes: 1
+Gráfica: No disponible
+Fabricante Gráfica: Intel
+Modelo: ThinkPad X1
+Modelo Gráfica: Intel Graphics
+Memoria de la gráfica
+0 mb
+PROCESADOR
+Familia Procesador
+Intel Core Ultra 7
+Modelo de procesador
+155U
+Fabricante procesador
+Intel
+Frecuencia del procesador
+4
+Memoria Gráfica: 0 mb
+Familia Procesador: Intel Core
+Modelo Procesador: Intel Core Ultra
+Fabricante Procesador: Intel
+Frecuencia Procesador: No disponible
+Pantalla: 14 "
+Precio: 2.546,24 €
+Tamaño Pantalla: 14 "
+Pantalla Táctil: No disponible
+Tipo Pantalla: IPS
+Resolución Pantalla: No disponible
+Superficie Pantalla: Mate
+Peso: 1 G
+Altura: No disponible
+Ancho: 28 cm
+Profundidad: 55 cm
+Color: rosa
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No disponible
+Puertos USB: No disponible
+Ethernet: No
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No disponible
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: 16 GB
+Bancos RAM Libres: No disponible
+Velocidad RAM: 400 MHZ
+Tecnología RAM: LPDDR5
+Unidad Óptica: No disponible
+Teclado: No disponible
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: Windows 11
+Pluma: No disponible
+Opciones: EXTENSIONES DE GARANTÍA
+Código Artículo
+Características principales
+Stock
+Llegadas
+Lenovo
+Código
+Otros: contenidos
+Puertos: VGA

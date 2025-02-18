@@ -1,0 +1,292 @@
+{
+    "$schema": "http://www.azure.com/schema/formrecognizer/labels.json",
+    "document": "623N5ET.pdf",
+    "labels": [
+        {
+            "label": "precio",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.84420186,
+                            0.18484916,
+                            0.9412626,
+                            0.18467812,
+                            0.9413352,
+                            0.20396087,
+                            0.8442745,
+                            0.2041319
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "693,82 \u00e2\u201a\u00ac"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "modelo",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.4406878,
+                            0.51103944,
+                            0.5215939,
+                            0.5109882,
+                            0.521606,
+                            0.5238661,
+                            0.4406999,
+                            0.52391744
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "HP Pro 290 G9"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "marca",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.85517734,
+                            0.71113527,
+                            0.88176286,
+                            0.71111816,
+                            0.88177496,
+                            0.7200113,
+                            0.85518944,
+                            0.72002834
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "Intel"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "tama\u00c3\u00b1o",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.1953436,
+                            0.66105145,
+                            0.23430826,
+                            0.6611284,
+                            0.23427196,
+                            0.6703379,
+                            0.1953073,
+                            0.670261
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "256 GB"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "garantia",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.2890403,
+                            0.5628335,
+                            0.34146106,
+                            0.5629874,
+                            0.34140056,
+                            0.57271004,
+                            0.28897977,
+                            0.57255614
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "12meses"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "grafica modelo",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.19582763,
+                            0.74866605,
+                            0.27163932,
+                            0.74882853,
+                            0.2715909,
+                            0.7592095,
+                            0.19577923,
+                            0.7590471
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "UHD Graphics"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "procesador",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.19567032,
+                            0.71087015,
+                            0.26123258,
+                            0.71069914,
+                            0.26128098,
+                            0.7204046,
+                            0.19571874,
+                            0.72057563
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "Intel Core i5"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "color",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.85545564,
+                            0.20212238,
+                            0.88879347,
+                            0.20224209,
+                            0.8887329,
+                            0.21115234,
+                            0.85539514,
+                            0.21103263
+                        ]
+                    ],
+                    "page": 2,
+                    "text": "Negro"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "bluetooth",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.6357894,
+                            0.2018744,
+                            0.6516899,
+                            0.2018744,
+                            0.6516899,
+                            0.20992099,
+                            0.6357894,
+                            0.20992953
+                        ]
+                    ],
+                    "page": 2,
+                    "text": "No"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "RAM",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.19619066,
+                            0.3280288,
+                            0.2218323,
+                            0.32800314,
+                            0.2218565,
+                            0.33675948,
+                            0.19621487,
+                            0.3367851
+                        ]
+                    ],
+                    "page": 2,
+                    "text": "8 GB"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "sistema operativo",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.1953799,
+                            0.27825284,
+                            0.54239523,
+                            0.27802196,
+                            0.54240733,
+                            0.288574,
+                            0.195392,
+                            0.2888049
+                        ]
+                    ],
+                    "page": 2,
+                    "text": "Windows 11\nVersi\u00c3\u00b3n\nProfessional\nImagen"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "resolucion",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.19623907,
+                            0.7606804,
+                            0.21705247,
+                            0.7607487,
+                            0.21700408,
+                            0.76941955,
+                            0.19619066,
+                            0.7693511
+                        ]
+                    ],
+                    "page": 1,
+                    "text": "770"
+                }
+            ],
+            "labelType": "Words"
+        },
+        {
+            "label": "puerto USB",
+            "value": [
+                {
+                    "boundingBoxes": [
+                        [
+                            0.75723326,
+                            0.064791694,
+                            0.7936325,
+                            0.0648088,
+                            0.79362047,
+                            0.07519839,
+                            0.75722116,
+                            0.07518128
+                        ]
+                    ],
+                    "page": 2,
+                    "text": "Type-A"
+                }
+            ],
+            "labelType": "Words"
+        }
+    ]
+}

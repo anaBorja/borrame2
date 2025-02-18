@@ -1,0 +1,58 @@
+Garantía: 12meses
+Disco Duro: No disponible
+Tipo Soporte Disco: SSD
+Interfaz Soporte: NVMe
+Número Soportes: 1
+Gráfica: Intel Arc
+Fabricante Gráfica: No disponible
+Modelo: XPS 13
+Modelo Gráfica: Intel Arc
+Graphics
+8
+Frecuencia del
+procesador
+PANTALLA
+Fabricante procesador
+4
+Memoria Gráfica: No disponible
+Familia Procesador: No disponible
+Modelo Procesador: Intel Core Ultra
+Fabricante Procesador: No disponible
+Frecuencia Procesador: No disponible
+Pantalla: 13.4"
+Precio: 2.303,03 €
+Tamaño Pantalla: 13.4"
+Pantalla Táctil: No disponible
+Tipo Pantalla: OLED
+Resolución Pantalla: No disponible
+Superficie Pantalla: No disponible
+Peso: 32G
+Altura: No disponible
+Ancho: No disponible
+Profundidad: No disponible
+Color: Plata
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No
+Puertos USB: No disponible
+Ethernet: No disponible
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No disponible
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: No disponible
+Bancos RAM Libres: No disponible
+Velocidad RAM: No disponible
+Tecnología RAM: LPDDR5
+Unidad Óptica: No disponible
+Teclado: retroiluminado
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: Windows 11
+Pluma: No disponible
+Opciones: ACCESORIOS ORDENADORES PORTÁTILES DOCKING STATION Y EXPANSION PARA PORTÁTILES
+Otros: archivos sin preocupaciones
+Puertos: VGA

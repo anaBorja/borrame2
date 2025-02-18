@@ -1,0 +1,68 @@
+Garantía: No disponible
+Disco Duro: 512 GB
+Tipo Soporte Disco: No disponible
+Interfaz Soporte: No disponible
+Número Soportes: 1
+Gráfica: No disponible
+Fabricante Gráfica: Intel
+Modelo: Surface Pro 10
+Modelo Gráfica: Intel Graphics
+Memoria de la gráfica
+0 mb
+PROCESADOR
+Familia Procesador
+Intel Core Ultra 7
+Modelo de procesador
+17-165U
+Fabricante procesador
+Intel
+Frecuencia del procesador
+1
+Memoria Gráfica: 0 mb
+Familia Procesador: Intel Core
+Modelo Procesador: Intel Core Ultra
+Fabricante Procesador: Intel
+Frecuencia Procesador: No disponible
+Pantalla: 13"
+Precio: 2.311,45 €
+Tamaño Pantalla: 13"
+Pantalla Táctil: No disponible
+Tipo Pantalla: LCD
+Resolución Pantalla: No disponible
+Superficie Pantalla: No disponible
+Peso: 907 g
+Altura: No disponible
+Ancho: 7 cm
+Profundidad: 8 cm
+Color: Gris
+Trusted Platform Module (TPM): No disponible
+Conexión a Red Móvil: No
+Puertos USB: No disponible
+Ethernet: No
+Bluetooth: No disponible
+Puerto Thunderbolt: No disponible
+Puerto HDMI: No
+RAM: No disponible
+RAM Instalada: No disponible
+RAM Máxima: 32 GB
+Bancos RAM Libres: No disponible
+Velocidad RAM: 533 MHZ
+Tecnología RAM: LPDDR5
+Unidad Óptica: No disponible
+Teclado: retroiluminado
+Micrófono Integrado: No disponible
+Número de Celdas Batería: No disponible
+Duración de la Batería: No disponible
+Webcam: No disponible
+Resolución Webcam: No disponible
+Sistema Operativo: Windows 11
+Pluma: No disponible
+Opciones: ACCESORIOS ORDENADORES PORTÁTILES DOCKING STATION Y EXPANSION PARA PORTÁTILES
+Código Artículo
+Características principales
+Stock
+Llegadas
+Microsoft Surface
+Código
+Otros: No disponible
+Puertos: USB 4
