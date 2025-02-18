@@ -1,0 +1,96 @@
+import streamlit as st
+from pymongo import MongoClient
+import os
+import requests
+from dotenv import load_dotenv
+
+# Cargar variables de entorno desde .env
+load_dotenv()
+
+class ComputerBot:
+    def __init__(self):
+        # Conexión a Cosmos DB
+        self.connection_string = os.getenv("COSMOSDB_CONNECTION_STRING")
+        self.client = MongoClient(self.connection_string)
+        self.db = self.client["computerbot"]
+        self.collection = self.db["ordenadores"]
+
+        # Configuración de Language Service (NER)
+        self.endpoint = os.getenv("LANGUAGE_SERVICE_ENDPOINT")
+        self.key = os.getenv("LANGUAGE_SERVICE_KEY")
+
+    def extraer_entidades_con_ner(self, texto):
+        headers = {
+            "Content-Type": "application/json",
+            "Ocp-Apim-Subscription-Key": self.key  # Usa el encabezado correcto para Azure
+        }
+        body = {
+            "kind": "EntityRecognition",
+            "parameters": {
+                "modelVersion": "latest"
+            },
+            "analysisInput": {
+                "documents": [
+                    {
+                        "language": "es",
+                        "id": "1",
+                        "text": texto
+                    }
+                ]
+            }
+        }
+
+        try:
+            response = requests.post(self.endpoint, headers=headers, json=body)
+            response.raise_for_status()  # Lanza una excepción si la respuesta no es 200
+            entities = response.json()["results"]["documents"][0]["entities"]
+            return {entity["category"]: entity["text"] for entity in entities}
+        except Exception as e:
+            st.error(f"❌ Error al llamar al modelo NER: {e}")
+            return {}
+
+    def buscar_en_cosmos_db(self, entidades):
+        # Construir la consulta para Cosmos DB
+        consulta = {}
+        for k, v in entidades.items():
+            # Mapear nombres de entidades a los campos en Cosmos DB
+            if k == "memoria ram":
+                consulta["memoria_ram"] = v
+            else:
+                consulta[k] = v
+
+        # Buscar en Cosmos DB
+        resultados = self.collection.find(consulta)
+        return resultados
+
+# Interfaz de usuario con Streamlit
+st.title("Chatbot de Búsqueda de Ordenadores")
+
+# Inicializar el bot
+bot = ComputerBot()
+
+# Entrada del usuario
+user_message = st.text_input("Escribe tu búsqueda (por ejemplo, 'buscar un Lenovo con 16 GB de RAM'):")
+
+# Lógica de búsqueda
+if user_message:
+    # Extraer entidades usando el modelo NER
+    entidades = bot.extraer_entidades_con_ner(user_message)
+
+    if not entidades:
+        st.error("❌ No se pudieron extraer entidades de la búsqueda.")
+        st.stop()
+
+    # Buscar en Cosmos DB
+    resultados = bot.buscar_en_cosmos_db(entidades)
+
+    # Preparar la respuesta
+    if resultados.count() > 0:
+        st.success(f"🔍 Resultados de la búsqueda:")
+        for doc in resultados:
+            detalles = ", ".join([f"{k}: {v}" for k, v in doc.items() if k != "_id"])
+            st.write(f"- {detalles}")
+    else:
+        st.error(f"❌ No se encontraron resultados para: {', '.join([f'{k} = {v}' for k, v in entidades.items()])}.")
+else:
+    st.info("¡Hola! Puedo ayudarte a buscar ordenadores. Por ejemplo, escribe 'buscar un Lenovo con 16 GB de RAM'.")

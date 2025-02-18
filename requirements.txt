@@ -1,0 +1,13 @@
+azure-ai-formrecognizer
+python-dotenv
+pymongo 
+dnspython 
+botbuilder-core
+botbuilder-integration-aiohttp
+azure-ai-textanalytics
+azure-cosmos
+streamlit
+azure-storage-blob
+pymongo
+
+

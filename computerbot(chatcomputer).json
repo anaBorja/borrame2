@@ -1,0 +1,3059 @@
+{
+    "projectFileVersion": "2024-11-15-preview",
+    "stringIndexType": "Utf16CodeUnit",
+    "metadata": {
+        "projectKind": "CustomEntityRecognition",
+        "storageInputContainerName": "textoutput",
+        "settings": {
+            "confidenceThreshold": 0
+        },
+        "projectName": "computerbot",
+        "multilingual": true,
+        "description": "",
+        "language": "es"
+    },
+    "assets": {
+        "projectKind": "CustomEntityRecognition",
+        "entities": [
+            {
+                "compositionSetting": "combineComponents",
+                "category": "marca"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "modelo"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "sistema operativo"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "procesador"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "memoria ram"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "almacenamiento"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "tarjeta grafica"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "peso"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "duracion"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "codigo"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "precio"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "garantia"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "disco duro"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "memoria grafica"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "modelo grafica"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "frecuencia procesador"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "pantalla"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "resolucion"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "altura"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "ancho"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "color"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "bluetooth"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "usabilidad"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "equipo"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "puerto USB"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "garantia modelo"
+            },
+            {
+                "compositionSetting": "combineComponents",
+                "category": "material"
+            }
+        ],
+        "documents": [
+            {
+                "location": "text_output/16Z90R-E.AD78B.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 141,
+                                "length": 2
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 158,
+                                "length": 2
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 161,
+                                "length": 11
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 174,
+                                "length": 15
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 190,
+                                "length": 3
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 195,
+                                "length": 4
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 201,
+                                "length": 7
+                            },
+                            {
+                                "category": "tarjeta grafica",
+                                "offset": 209,
+                                "length": 1
+                            },
+                            {
+                                "category": "tarjeta grafica",
+                                "offset": 210,
+                                "length": 9
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 221,
+                                "length": 5
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 228,
+                                "length": 5
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 243,
+                                "length": 14
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 259,
+                                "length": 10
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 394,
+                                "length": 7
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 894,
+                                "length": 27
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 1561,
+                                "length": 7
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 1594,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1754,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 1778,
+                                "length": 17
+                            },
+                            {
+                                "category": "memoria grafica",
+                                "offset": 1820,
+                                "length": 4
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 1846,
+                                "length": 13
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 1951,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 1987,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 2060,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 2145,
+                                "length": 6
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 2161,
+                                "length": 8
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 2178,
+                                "length": 8
+                            },
+                            {
+                                "category": "color",
+                                "offset": 2226,
+                                "length": 5
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 2361,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 2450,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 2469,
+                                "length": 5
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 2714,
+                                "length": 6
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 2764,
+                                "length": 15
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 2781,
+                                "length": 8
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 2791,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 2850,
+                                "length": 16
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/17Z90R-E.AD78B.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 141,
+                                "length": 2
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 158,
+                                "length": 14
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 172,
+                                "length": 4
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 176,
+                                "length": 17
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 193,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 196,
+                                "length": 4
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 201,
+                                "length": 7
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 218,
+                                "length": 14
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 234,
+                                "length": 10
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 246,
+                                "length": 7
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 255,
+                                "length": 6
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 272,
+                                "length": 7
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 288,
+                                "length": 8
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 334,
+                                "length": 8
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 348,
+                                "length": 8
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 669,
+                                "length": 8
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 751,
+                                "length": 27
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1595,
+                                "length": 7
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 1731,
+                                "length": 8
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 2104,
+                                "length": 5
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 2336,
+                                "length": 10
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 2607,
+                                "length": 7
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 2640,
+                                "length": 8
+                            },
+                            {
+                                "category": "tarjeta grafica",
+                                "offset": 2788,
+                                "length": 5
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 2811,
+                                "length": 12
+                            },
+                            {
+                                "category": "memoria grafica",
+                                "offset": 2848,
+                                "length": 5
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 2887,
+                                "length": 13
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 2924,
+                                "length": 8
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 2992,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 3028,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 3101,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 3187,
+                                "length": 7
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 3204,
+                                "length": 8
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 3221,
+                                "length": 8
+                            },
+                            {
+                                "category": "color",
+                                "offset": 3269,
+                                "length": 5
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3391,
+                                "length": 9
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3446,
+                                "length": 7
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 3541,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 3606,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 3625,
+                                "length": 5
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 3947,
+                                "length": 4
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4027,
+                                "length": 15
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4044,
+                                "length": 8
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4054,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 4113,
+                                "length": 16
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/21KE002YSP.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 15,
+                                "length": 6
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 23,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 30,
+                                "length": 19
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 63,
+                                "length": 11
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 76,
+                                "length": 8
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 85,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 92,
+                                "length": 18
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 290,
+                                "length": 10
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 489,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 498,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 1438,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1447,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 1738,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1747,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 2368,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 2377,
+                                "length": 18
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 2884,
+                                "length": 7
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 2917,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 3118,
+                                "length": 14
+                            },
+                            {
+                                "category": "memoria grafica",
+                                "offset": 3157,
+                                "length": 4
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 3195,
+                                "length": 19
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 3302,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 3338,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 3411,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 3521,
+                                "length": 7
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 3538,
+                                "length": 8
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 3555,
+                                "length": 7
+                            },
+                            {
+                                "category": "color",
+                                "offset": 3603,
+                                "length": 4
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 3791,
+                                "length": 2
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3891,
+                                "length": 36
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3929,
+                                "length": 36
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3978,
+                                "length": 8
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 4207,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 4226,
+                                "length": 5
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4482,
+                                "length": 15
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4499,
+                                "length": 8
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4509,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 4568,
+                                "length": 15
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 4604,
+                                "length": 15
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 4728,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 4744,
+                                "length": 10
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 4764,
+                                "length": 24
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 4963,
+                                "length": 9
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 5014,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5030,
+                                "length": 10
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 5049,
+                                "length": 25
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 5249,
+                                "length": 9
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 5300,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5316,
+                                "length": 10
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 5345,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5361,
+                                "length": 10
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/21KE003JSP.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 15,
+                                "length": 6
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 23,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 30,
+                                "length": 18
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 64,
+                                "length": 10
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 76,
+                                "length": 8
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 85,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 92,
+                                "length": 18
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 290,
+                                "length": 10
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 489,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 498,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 1437,
+                                "length": 9
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1447,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 1690,
+                                "length": 8
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 1738,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1747,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 2368,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 2377,
+                                "length": 18
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 2884,
+                                "length": 7
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 2917,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 3097,
+                                "length": 5
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 3120,
+                                "length": 14
+                            },
+                            {
+                                "category": "memoria grafica",
+                                "offset": 3159,
+                                "length": 4
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 3197,
+                                "length": 19
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 3269,
+                                "length": 5
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 3304,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 3340,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 3413,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 3523,
+                                "length": 7
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 3540,
+                                "length": 8
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 3557,
+                                "length": 7
+                            },
+                            {
+                                "category": "color",
+                                "offset": 3605,
+                                "length": 4
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 3793,
+                                "length": 2
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3893,
+                                "length": 36
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3931,
+                                "length": 36
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 4209,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 4228,
+                                "length": 5
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4481,
+                                "length": 15
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4498,
+                                "length": 8
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4508,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 4570,
+                                "length": 15
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 4606,
+                                "length": 15
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 4730,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 4746,
+                                "length": 10
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 4766,
+                                "length": 24
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 4965,
+                                "length": 9
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 5016,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5031,
+                                "length": 11
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 5052,
+                                "length": 24
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 5251,
+                                "length": 9
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 5302,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5318,
+                                "length": 10
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 5347,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5363,
+                                "length": 10
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/21KE003VSP.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 15,
+                                "length": 6
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 23,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 29,
+                                "length": 19
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 64,
+                                "length": 10
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 76,
+                                "length": 8
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 85,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 92,
+                                "length": 19
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 290,
+                                "length": 10
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 489,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 498,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 1690,
+                                "length": 8
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 1738,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1747,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 2368,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 2377,
+                                "length": 18
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 2884,
+                                "length": 7
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 2917,
+                                "length": 8
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 2943,
+                                "length": 3
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 3120,
+                                "length": 14
+                            },
+                            {
+                                "category": "memoria grafica",
+                                "offset": 3159,
+                                "length": 4
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 3197,
+                                "length": 19
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 3304,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 3340,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 3413,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 3523,
+                                "length": 7
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 3540,
+                                "length": 8
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 3557,
+                                "length": 7
+                            },
+                            {
+                                "category": "color",
+                                "offset": 3605,
+                                "length": 4
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 3793,
+                                "length": 2
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3850,
+                                "length": 36
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3888,
+                                "length": 36
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 4166,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 4185,
+                                "length": 5
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4441,
+                                "length": 15
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4458,
+                                "length": 8
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4468,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 4527,
+                                "length": 15
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 4563,
+                                "length": 15
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 4687,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 4703,
+                                "length": 10
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 4723,
+                                "length": 24
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 4922,
+                                "length": 9
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 4973,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 4988,
+                                "length": 11
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 5009,
+                                "length": 24
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 5208,
+                                "length": 9
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 5259,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5275,
+                                "length": 10
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 5304,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5320,
+                                "length": 10
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 5349,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 5365,
+                                "length": 10
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 5385,
+                                "length": 41
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 5583,
+                                "length": 20
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/DTPF3.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 141,
+                                "length": 16
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 159,
+                                "length": 4
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 163,
+                                "length": 19
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 182,
+                                "length": 4
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 186,
+                                "length": 11
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 219,
+                                "length": 5
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 226,
+                                "length": 10
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 238,
+                                "length": 4
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 243,
+                                "length": 6
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 339,
+                                "length": 18
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 620,
+                                "length": 5
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 734,
+                                "length": 11
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 933,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 940,
+                                "length": 16
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 1102,
+                                "length": 5
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 3305,
+                                "length": 14
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 3732,
+                                "length": 7
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 3753,
+                                "length": 5
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 3877,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 3901,
+                                "length": 11
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 3961,
+                                "length": 19
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 4171,
+                                "length": 3
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 4203,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 4420,
+                                "length": 11
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 4492,
+                                "length": 6
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 4507,
+                                "length": 2
+                            },
+                            {
+                                "category": "color",
+                                "offset": 4549,
+                                "length": 4
+                            },
+                            {
+                                "category": "material",
+                                "offset": 4608,
+                                "length": 8
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 5004,
+                                "length": 22
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 5039,
+                                "length": 2
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 5094,
+                                "length": 6
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 5113,
+                                "length": 4
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 5219,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 5235,
+                                "length": 2
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 5538,
+                                "length": 4
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/FMDDY.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 141,
+                                "length": 16
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 159,
+                                "length": 4
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 164,
+                                "length": 21
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 185,
+                                "length": 4
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 189,
+                                "length": 11
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 222,
+                                "length": 5
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 229,
+                                "length": 10
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 244,
+                                "length": 4
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 249,
+                                "length": 11
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 266,
+                                "length": 9
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 543,
+                                "length": 8
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 726,
+                                "length": 19
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 753,
+                                "length": 5
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 1040,
+                                "length": 5
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1046,
+                                "length": 11
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 1092,
+                                "length": 13
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 1107,
+                                "length": 5
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 1130,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 1136,
+                                "length": 19
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 1414,
+                                "length": 5
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 1701,
+                                "length": 11
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 1897,
+                                "length": 23
+                            },
+                            {
+                                "category": "color",
+                                "offset": 2330,
+                                "length": 7
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 2464,
+                                "length": 4
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 2469,
+                                "length": 12
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 2798,
+                                "length": 5
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 2817,
+                                "length": 7
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 2957,
+                                "length": 19
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 3027,
+                                "length": 11
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 3056,
+                                "length": 22
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 3141,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 3208,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 3282,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 3513,
+                                "length": 4
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 3527,
+                                "length": 4
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 3540,
+                                "length": 5
+                            },
+                            {
+                                "category": "color",
+                                "offset": 3583,
+                                "length": 5
+                            },
+                            {
+                                "category": "material",
+                                "offset": 3643,
+                                "length": 8
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3853,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 3933,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 4221,
+                                "length": 2
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 4351,
+                                "length": 22
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 4386,
+                                "length": 2
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 4489,
+                                "length": 3
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 5116,
+                                "length": 15
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 5357,
+                                "length": 7
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/GN4X0.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 141,
+                                "length": 16
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 159,
+                                "length": 4
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 164,
+                                "length": 13
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 193,
+                                "length": 4
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 198,
+                                "length": 7
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 206,
+                                "length": 5
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 221,
+                                "length": 5
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 228,
+                                "length": 10
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 310,
+                                "length": 2
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 1812,
+                                "length": 7
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 1833,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 2004,
+                                "length": 12
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 2079,
+                                "length": 19
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 2186,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 2228,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 2301,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 2353,
+                                "length": 7
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 2370,
+                                "length": 7
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 2386,
+                                "length": 7
+                            },
+                            {
+                                "category": "color",
+                                "offset": 2433,
+                                "length": 4
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 2572,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 2637,
+                                "length": 5
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 2910,
+                                "length": 15
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 2931,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 2986,
+                                "length": 15
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 3105,
+                                "length": 17
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 3131,
+                                "length": 6
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 3147,
+                                "length": 15
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 3324,
+                                "length": 9
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 3372,
+                                "length": 17
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 3398,
+                                "length": 6
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 3414,
+                                "length": 15
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 3591,
+                                "length": 9
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 3639,
+                                "length": 17
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 3666,
+                                "length": 5
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 3680,
+                                "length": 16
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 3858,
+                                "length": 9
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 3906,
+                                "length": 17
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 3932,
+                                "length": 6
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 3948,
+                                "length": 15
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 4124,
+                                "length": 10
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 4173,
+                                "length": 17
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 4200,
+                                "length": 5
+                            },
+                            {
+                                "category": "garantia modelo",
+                                "offset": 4377,
+                                "length": 12
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/MX2G3Y_A.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "codigo",
+                                "offset": 141,
+                                "length": 8
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 169,
+                                "length": 10
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 210,
+                                "length": 6
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 262,
+                                "length": 6
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 292,
+                                "length": 26
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 383,
+                                "length": 11
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 597,
+                                "length": 13
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 636,
+                                "length": 11
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 756,
+                                "length": 8
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 849,
+                                "length": 7
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 879,
+                                "length": 5
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 960,
+                                "length": 7
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 991,
+                                "length": 6
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 1022,
+                                "length": 5
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 1056,
+                                "length": 6
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 1132,
+                                "length": 11
+                            },
+                            {
+                                "category": "color",
+                                "offset": 1195,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 1296,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 1315,
+                                "length": 5
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 1506,
+                                "length": 5
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/NP960XGL-XG1ES.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 141,
+                                "length": 7
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 150,
+                                "length": 21
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 174,
+                                "length": 17
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 192,
+                                "length": 4
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 197,
+                                "length": 3
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 6850,
+                                "length": 25
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 6917,
+                                "length": 24
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 8082,
+                                "length": 37
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/NP960XGL-XG2ES.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 15,
+                                "length": 7
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 150,
+                                "length": 18
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 169,
+                                "length": 3
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 174,
+                                "length": 17
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 192,
+                                "length": 4
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 197,
+                                "length": 3
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 202,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 209,
+                                "length": 16
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 226,
+                                "length": 15
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 242,
+                                "length": 6
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 271,
+                                "length": 14
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 287,
+                                "length": 10
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 299,
+                                "length": 18
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 599,
+                                "length": 7
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 608,
+                                "length": 11
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 1121,
+                                "length": 18
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 2137,
+                                "length": 10
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 2367,
+                                "length": 14
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 2484,
+                                "length": 18
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 2901,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 2949,
+                                "length": 18
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 6545,
+                                "length": 18
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 6858,
+                                "length": 24
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 6925,
+                                "length": 24
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 7344,
+                                "length": 18
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/Y6B-00005.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "marca",
+                                "offset": 160,
+                                "length": 24
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 185,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 188,
+                                "length": 2
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 191,
+                                "length": 1
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 192,
+                                "length": 1
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 193,
+                                "length": 1
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 195,
+                                "length": 3
+                            },
+                            {
+                                "category": "color",
+                                "offset": 199,
+                                "length": 7
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 216,
+                                "length": 9
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 227,
+                                "length": 10
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 239,
+                                "length": 24
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 632,
+                                "length": 14
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 1310,
+                                "length": 5
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 1377,
+                                "length": 18
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 1448,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 1611,
+                                "length": 14
+                            },
+                            {
+                                "category": "memoria grafica",
+                                "offset": 1650,
+                                "length": 4
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 1688,
+                                "length": 19
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 1798,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 1894,
+                                "length": 4
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 1967,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 2101,
+                                "length": 7
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 2118,
+                                "length": 7
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 2134,
+                                "length": 7
+                            },
+                            {
+                                "category": "color",
+                                "offset": 2181,
+                                "length": 4
+                            },
+                            {
+                                "category": "material",
+                                "offset": 2240,
+                                "length": 8
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 2409,
+                                "length": 22
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 2482,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 2783,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 2802,
+                                "length": 5
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 3109,
+                                "length": 4
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 3223,
+                                "length": 8
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 3233,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 3292,
+                                "length": 15
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 4025,
+                                "length": 18
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 4124,
+                                "length": 17
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 4184,
+                                "length": 18
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4217,
+                                "length": 18
+                            },
+                            {
+                                "category": "color",
+                                "offset": 4257,
+                                "length": 5
+                            },
+                            {
+                                "category": "material",
+                                "offset": 4272,
+                                "length": 9
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 4297,
+                                "length": 18
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 4344,
+                                "length": 9
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 4377,
+                                "length": 17
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4410,
+                                "length": 18
+                            },
+                            {
+                                "category": "color",
+                                "offset": 4450,
+                                "length": 5
+                            },
+                            {
+                                "category": "material",
+                                "offset": 4466,
+                                "length": 8
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/Z1T-00012.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "modelo",
+                                "offset": 141,
+                                "length": 17
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 160,
+                                "length": 33
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 194,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 197,
+                                "length": 2
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 200,
+                                "length": 7
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 208,
+                                "length": 3
+                            },
+                            {
+                                "category": "color",
+                                "offset": 212,
+                                "length": 7
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 228,
+                                "length": 10
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 240,
+                                "length": 10
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 252,
+                                "length": 33
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 431,
+                                "length": 5
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 548,
+                                "length": 8
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 672,
+                                "length": 20
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 699,
+                                "length": 13
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 760,
+                                "length": 7
+                            },
+                            {
+                                "category": "marca",
+                                "offset": 820,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 826,
+                                "length": 21
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 1450,
+                                "length": 5
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 1476,
+                                "length": 5
+                            },
+                            {
+                                "category": "garantia",
+                                "offset": 2378,
+                                "length": 7
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 2387,
+                                "length": 9
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 2407,
+                                "length": 13
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 2446,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 2604,
+                                "length": 17
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 2646,
+                                "length": 4
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 2684,
+                                "length": 13
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 2790,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 2826,
+                                "length": 6
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 2901,
+                                "length": 11
+                            },
+                            {
+                                "category": "peso",
+                                "offset": 3035,
+                                "length": 7
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 3052,
+                                "length": 6
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 3067,
+                                "length": 7
+                            },
+                            {
+                                "category": "color",
+                                "offset": 3112,
+                                "length": 4
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 3245,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 3306,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 3325,
+                                "length": 5
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 3569,
+                                "length": 4
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 3666,
+                                "length": 8
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 3676,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 3735,
+                                "length": 15
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            },
+            {
+                "location": "text_output/ZKB-00012.txt",
+                "language": "es",
+                "entities": [
+                    {
+                        "labels": [
+                            {
+                                "category": "modelo",
+                                "offset": 141,
+                                "length": 17
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 160,
+                                "length": 26
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 191,
+                                "length": 3
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 195,
+                                "length": 2
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 198,
+                                "length": 3
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 202,
+                                "length": 10
+                            },
+                            {
+                                "category": "color",
+                                "offset": 213,
+                                "length": 5
+                            },
+                            {
+                                "category": "codigo",
+                                "offset": 228,
+                                "length": 9
+                            },
+                            {
+                                "category": "precio",
+                                "offset": 239,
+                                "length": 10
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 251,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 269,
+                                "length": 6
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 275,
+                                "length": 2
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 282,
+                                "length": 8
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 751,
+                                "length": 20
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 831,
+                                "length": 12
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 871,
+                                "length": 12
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 921,
+                                "length": 12
+                            },
+                            {
+                                "category": "almacenamiento",
+                                "offset": 935,
+                                "length": 5
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 968,
+                                "length": 12
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 1131,
+                                "length": 15
+                            },
+                            {
+                                "category": "material",
+                                "offset": 1758,
+                                "length": 8
+                            },
+                            {
+                                "category": "material",
+                                "offset": 1769,
+                                "length": 9
+                            },
+                            {
+                                "category": "color",
+                                "offset": 1790,
+                                "length": 7
+                            },
+                            {
+                                "category": "color",
+                                "offset": 1800,
+                                "length": 5
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 1931,
+                                "length": 10
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 2397,
+                                "length": 8
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 2409,
+                                "length": 5
+                            },
+                            {
+                                "category": "disco duro",
+                                "offset": 2467,
+                                "length": 8
+                            },
+                            {
+                                "category": "modelo grafica",
+                                "offset": 2625,
+                                "length": 19
+                            },
+                            {
+                                "category": "memoria grafica",
+                                "offset": 2669,
+                                "length": 4
+                            },
+                            {
+                                "category": "procesador",
+                                "offset": 2707,
+                                "length": 19
+                            },
+                            {
+                                "category": "frecuencia procesador",
+                                "offset": 2814,
+                                "length": 7
+                            },
+                            {
+                                "category": "pantalla",
+                                "offset": 2893,
+                                "length": 6
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 2968,
+                                "length": 11
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 3056,
+                                "length": 7
+                            },
+                            {
+                                "category": "altura",
+                                "offset": 3073,
+                                "length": 7
+                            },
+                            {
+                                "category": "ancho",
+                                "offset": 3089,
+                                "length": 7
+                            },
+                            {
+                                "category": "color",
+                                "offset": 3136,
+                                "length": 5
+                            },
+                            {
+                                "category": "material",
+                                "offset": 3196,
+                                "length": 8
+                            },
+                            {
+                                "category": "puerto USB",
+                                "offset": 3317,
+                                "length": 25
+                            },
+                            {
+                                "category": "bluetooth",
+                                "offset": 3429,
+                                "length": 2
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 3809,
+                                "length": 5
+                            },
+                            {
+                                "category": "memoria ram",
+                                "offset": 3828,
+                                "length": 5
+                            },
+                            {
+                                "category": "duracion",
+                                "offset": 4133,
+                                "length": 6
+                            },
+                            {
+                                "category": "resolucion",
+                                "offset": 4190,
+                                "length": 11
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4249,
+                                "length": 8
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 4259,
+                                "length": 9
+                            },
+                            {
+                                "category": "sistema operativo",
+                                "offset": 4318,
+                                "length": 15
+                            },
+                            {
+                                "category": "modelo",
+                                "offset": 5045,
+                                "length": 18
+                            },
+                            {
+                                "category": "equipo",
+                                "offset": 5087,
+                                "length": 17
+                            },
+                            {
+                                "category": "usabilidad",
+                                "offset": 5120,
+                                "length": 18
+                            },
+                            {
+                                "category": "material",
+                                "offset": 5176,
+                                "length": 8
+                            }
+                        ]
+                    }
+                ],
+                "dataset": "Train"
+            }
+        ]
+    }
+}
